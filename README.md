@@ -1,6 +1,6 @@
 # Peace for the Planets
 
-Winner of the Games for Change Student CHallenge 2025: Peaceformers Challenge
+Winner of the Games for Change Student Challenge 2025: Peaceformers Challenge
 
 Peace for the Planets is a visual novel where you play as a Galactic Mediator, providing your council to alien species to encourage peace. This project was made for the Games for Change Student Challenge 2025, in particular the Peaceformers Challenge.
 
